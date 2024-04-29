@@ -70,6 +70,8 @@ Socket.IO.
 
 JSON Web Tokens (JWT).
 
+Zustand
+
 
 
 ## Acknowledgements
