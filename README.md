@@ -44,14 +44,6 @@ npm run dev
 
 ## Usage
 
-1.Open the application in your web browser.
-
-2.Sign up for a new account or log in if you already have an account.
-
-3.Start chatting with other users in real-time.
-
-## Usage
-
 Open the application in your web browser.
 
 Sign up for a new account or log in if you already have an account.
